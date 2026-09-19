@@ -1,14 +1,6 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/sigilbit-lockup-dark-2x.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/sigilbit-lockup-light-2x.png">
-    <img alt="SigilBit LLC" src="assets/sigilbit-lockup-dark-2x.png" width="620">
-  </picture>
-</p>
+# Symmetrum
 
-# SigilBit
-
-SigilBit builds **Parity5**, a governance and evidence layer between enterprise applications and AI providers.
+Symmetrum builds **Parity5**, a governance and evidence layer between enterprise applications and AI providers.
 
 ## What we build
 
@@ -33,6 +25,5 @@ The current Parity5 codebase is private while we harden the MVP. Public reposito
 
 ## Links
 
-- [sigilbit.com](https://sigilbit.com)
 - [parity5.ai](https://parity5.ai)
 - [parity5.com](https://parity5.com)
